@@ -1,0 +1,9 @@
+com\vehiclerental\controller\VehicleController.class
+com\vehiclerental\VehicleRentalApplication.class
+com\vehiclerental\repository\VehicleRepository.class
+com\vehiclerental\model\Vehicle.class
+com\vehiclerental\model\Booking.class
+com\vehiclerental\service\VehicleService.class
+com\vehiclerental\service\BookingService.class
+com\vehiclerental\repository\BookingRepository.class
+com\vehiclerental\controller\BookingController.class
