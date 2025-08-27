@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "vehicleNumber": "TN01AB1234",
+    "type": "bike",
+    "model": "Yamaha FZ-S",
+    "pricePerDay": 500,
+    "availability": true,
+    "imageUrl": "https://images.news18.com/ibnlive/uploads/2022/04/yamaha-fz-s-fi-165096716716x9.jpg"
+  },
+  {
+    "id": 2,
+    "vehicleNumber": "TN01AB5678",
+    "type": "bike",
+    "model": "Honda CB Hornet",
+    "pricePerDay": 480,
+    "availability": true,
+    "imageUrl": "https://honda.com.np/wp-content/uploads/product-catalog/motorcycles/hornet-MarsOrange.png"
+  },
+  {
+    "id": 3,
+    "vehicleNumber": "TN01EF3456",
+    "type": "bike",
+    "model": "Suzuki Gixxer",
+    "pricePerDay": 450,
+    "availability": true,
+    "imageUrl": "https://cdn.bikedekho.com/processedimages/suzuki/gixxer-250/source/gixxer-250679b1ae707482.jpg?imwidth=880"
+  },
+  {
+    "id": 4,
+    "vehicleNumber": "TN01GH7890",
+    "type": "bike",
+    "model": "TVS Apache RTR 160",
+    "pricePerDay": 470,
+    "availability": true,
+    "imageUrl": "https://cdn.bikedekho.com/processedimages/tvs/apache-rtr-160/source/apache-rtr-16068a8069ebda72.jpg?imwidth=400&impolicy=resize"
+  },
+  {
+    "id": 5,
+    "vehicleNumber": "TN01KL6789",
+    "type": "bike",
+    "model": "Bajaj Pulsar NS200",
+    "pricePerDay": 490,
+    "availability": true,
+    "imageUrl": "https://cdn.bikedekho.com/processedimages/bajaj/bajaj-pulsar-200-ns/source/bajaj-pulsar-200-ns68a6c52da4533.jpg?imwidth=400&impolicy=resize"
+  },
+  {
+    "id": 6,
+    "vehicleNumber": "TN01MN0123",
+    "type": "bike",
+    "model": "Hero Xtreme 160R",
+    "pricePerDay": 460,
+    "availability": true,
+    "imageUrl": "https://cdn.bikedekho.com/processedimages/hero/xtreme-160r/source/xtreme-160r66d8110c76ea9.jpg"
+  },
+  {
+    "id": 7,
+    "vehicleNumber": "TN01OP4567",
+    "type": "bike",
+    "model": "Yamaha R15 V4",
+    "pricePerDay": 600,
+    "availability": true,
+    "imageUrl": "https://cdn.bikedekho.com/processedimages/yamaha/r15-v4/source/r15-v468a8189ec669f.jpg?imwidth=400&impolicy=resize"
+  },
+  {
+    "id": 8,
+    "vehicleNumber": "TN02XY1004",
+    "type": "bike",
+    "model": "TVS Jupiter",
+    "pricePerDay": 512,
+    "availability": true,
+    "imageUrl": "https://www.bikedekho.com/tvs/jupiter/images"
+  },
+  {
+    "id": 9,
+    "vehicleNumber": "TN02XY1014",
+    "type": "bike",
+    "model": "Suzuki Access 125",
+    "pricePerDay": 488,
+    "availability": true,
+    "imageUrl": "https://www.bikedekho.com/suzuki/access-125/images"
+  },
+  {
+    "id": 10,
+    "vehicleNumber": "TN02XY1015",
+    "type": "bike",
+    "model": "Hero Glamour",
+    "pricePerDay": 598,
+    "availability": true,
+    "imageUrl": "https://www.bikedekho.com/hero/glamour/images"
+  }
+]

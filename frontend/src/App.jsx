@@ -8,17 +8,13 @@ import Terms from './pages/Terms';
 import Cancellation from './pages/cancellation';
 import Privacy from './pages/Privacy';
 import Loginpage from './pages/Loginpage';
-
-
-
-
-
-
+import AdminPage from './pages/AdminPage';
+import VehicleList from './components/Vehiclelist';
 
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<HomePage />} />
+      <Route path="/" element={<VehicleList />} />
       <Route path="/bikes" element={<BikeListPage />} />
       <Route path="/about" element={<Aboutpage />} />
       <Route path="/blog" element={<Blog />} />
@@ -26,6 +22,7 @@ function App() {
         <Route path="/cancellation" element={<Cancellation />} />
         <Route path="/privacy" element={<Privacy />} />
         <Route path="/login" element={<Loginpage />} />
+        <Route path="/home" element={<HomePage />} />
     
     </Routes>
   );
